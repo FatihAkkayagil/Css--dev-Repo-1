@@ -8,9 +8,9 @@ Dizi & Film tasarımı.
 ## 
 ## Road Map
 
-- Sitede 3 farklı sayfa oluşturuldu (index.html, movie.html, tv_series.html)
+- Sitede 3 farklı sayfa oluşturuldu (index.html, hakkımızda.html, iletisim.html)
 - Renk paleti için [Colorhunt](https://colorhunt.co) kullanıldı
-- Yazılan Css dosyasında hem Inline hemde External kullanıldı
+- Yazılan Css dosyasında hem Inline hem Internal hemde External kullanıldı
 - Sayfada kullanılan fontlar için [Google Fonts](https://fonts.google.com) tercih edildi
 
   ## 
@@ -32,10 +32,10 @@ Dizi & Film tasarımı.
 - index.html Sayfası
 ![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/ljtlu1w.png)
 
-- filmler.html Sayfası
+- hakkımızda.html Sayfası
 ![Uygulama Ekran Görüntüsü](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
-- diziler.html Sayfası
+- iletisim.html Sayfası
 ![Uygulama Ekran Görüntüsü](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 ## Installation 
