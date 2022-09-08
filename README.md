@@ -33,10 +33,10 @@ Dizi & Film tasarımı.
 ![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/ljtlu1w.png)
 
 - hakkımızda.html Sayfası
-![Uygulama Ekran Görüntüsü](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/h7oi9nu.png)
 
 - iletisim.html Sayfası
-![Uygulama Ekran Görüntüsü](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/d7plhtt.png)
 
 ## Installation 
 
