@@ -1,0 +1,104 @@
+/* renk paleti : https://colorhunt.co/palette/16213e0f3460533483e94560 */
+
+body {
+    background-color: #16213E;
+    font-family: 'Baloo 2', cursive;
+}
+
+.container {
+    width: 85%;
+    height: auto;
+    background-color: #0F3460;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -43%;
+    margin-top: -20%;
+    color: white;
+    font-size: 15px;
+}
+
+ul,
+li,
+a {
+    list-style: none;
+    color: white;
+    text-decoration: none;
+    display: inline;
+    padding: 10px;
+    font-size: 15px;
+}
+
+.menu {
+    width: 100%;
+}
+
+.navbar {
+    float: right;
+    margin: 40px;
+}
+
+.navbar ul,
+li,
+a {
+    font-size: 15px;
+}
+
+.navbar ul {
+    background-color: #E94560;
+    border: 1px solid #E94560;
+    border-radius: 25px;
+    margin-left: 10px;
+}
+
+.logo {
+    display: inline-block;
+    padding-top: 5px;
+    padding-left: 50px;
+}
+
+.logo h1 {
+    display: inline;
+    float: right;
+    margin-top: 15px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.cards {
+    width: calc(50% - 41px);
+    display: inline-block;
+    background-color: #212542;
+    border: 1px solid #212542;
+    border-radius: 15px;
+    color: black;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 15px;
+}
+
+.cards h2 {
+    color: #FAEDF0;
+    display: table;
+}
+
+.cards h3 {
+    color: #FAEDF0;
+    display: table;
+}
+
+.image {
+    margin-top: 3px;
+    margin-left: 2.8px;
+    float: left;
+}
+
+.image img {
+    border: 1px solid;
+    border-radius: 15px;
+    color: #212542;
+}
+
+.label {
+    text-align: center;
+}
