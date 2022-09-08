@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/Css-dev-Repo-1/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500&display=swap" rel="stylesheet">
+    <title>Movie App</title>
+    <title>Hakkımızda</title>
+    <style>
+        @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,600,400italic);
+        #contact input[type="text"],
+        #contact input[type="email"],
+        #contact textarea,
+        #contact {
+            background: #0F3460;
+            padding: 25px;
+            margin: 100px 0;
+        }
+        
+        #contact input[type="text"],
+        #contact input[type="email"],
+        #contact textarea {
+            width: 50%;
+            border: 1px solid #ccc;
+            background: #FFF;
+            margin: 0 0 5px;
+            padding: 10px;
+            margin-left: 25%;
+        }
+        
+        #contact textarea {
+            height: 120px;
+            max-width: 100%;
+            resize: none;
+        }
+        
+        #contact button[type="submit"] {
+            cursor: pointer;
+            width: 50%;
+            border: none;
+            background: #E94560;
+            color: #FFF;
+            margin: 0 0 5px;
+            padding: 10px;
+            font-size: 15px;
+            margin-left: 25.6%;
+        }
+        
+        #contact input:focus,
+        #contact textarea:focus {
+            outline: 0;
+            border: 1px solid #aaa;
+        }
+    </style>
+</head>
+
+<body>
+
+
+    <div class="container">
+        <div class="menu">
+
+            <a href="#">
+                <div class="logo">
+                    <img src="/Css-dev-Repo-1/img/logo.png" alt="">
+                    <h1>Movie App</h1>
+
+                </div>
+            </a>
+
+            <nav class="navbar">
+                <ul>
+                    <li><a href="/Css-dev-Repo-1/index.html">Anasayfa</a></li>
+                </ul>
+                <ul>
+                    <li><a href="/Css-dev-Repo-1/hakkimizda.html">Hakkımızda</a></li>
+                </ul>
+                <ul>
+                    <li><a href="/Css-dev-Repo-1/iletisim.html">İletişim</a></li>
+                </ul>
+            </nav>
+
+        </div>
+        <hr>
+        <form id="contact" action="" method="">
+            <h1 style="margin-left: 25%;">İletişim Sayfası</h1>
+            <div class="form-control">
+                <input placeholder="Adınız Soyadınız" type="text" required autofocus>
+            </div>
+            <div class="form-control">
+                <input placeholder="E-Posta Adresiniz" type="email" required>
+            </div>
+            <div class="form-control">
+                <input placeholder="Konu" type="text" required>
+            </div>
+            <div class="form-control">
+                <textarea placeholder="Lütfen Mesajınızı Buraya Yazın.." required></textarea>
+            </div>
+            <div class="form-control">
+                <button name="submit" type="submit" id="submit">GÖNDER</button>
+            </div>
+        </form>
+
+        <br>
+        <br>
+        <hr>
+        <div class="footer" style="padding-top:20px; ">
+            <ul>
+                <li><a href="https://twitter.com/fatih_akkayagil">Twitter</a></li>
+                <li><a href="https://github.com/FatihAkkayagil">Github</a></li>
+                <li><a href="https://www.linkedin.com/feed/">Linkedin</a></li>
+                <li><a href="mailto:fatih_akkayagil@hotmail.com">Email</a></li>
+                <p id="footer-id">Copyright © Fatih Akkayagil</p>
+            </ul>
+        </div>
+
+    </div>
+</body>
+
+</html>
