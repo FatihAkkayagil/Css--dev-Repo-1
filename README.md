@@ -29,13 +29,13 @@ Dizi & Film tasarımı.
 ## 
 ## Ekran Görüntüleri
 
-- index.html Sayfası
 ![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/ljtlu1w.png)
 
-- hakkımızda.html Sayfası
+![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/guu3ku7.png)
+
+
 ![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/h7oi9nu.png)
 
-- iletisim.html Sayfası
 ![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/l2x4b23.png)
 
 ## Installation 
