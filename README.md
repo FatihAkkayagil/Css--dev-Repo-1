@@ -36,7 +36,7 @@ Dizi & Film tasarımı.
 ![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/h7oi9nu.png)
 
 - iletisim.html Sayfası
-![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/d7plhtt.png)
+![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/l2x4b23.png)
 
 ## Installation 
 
