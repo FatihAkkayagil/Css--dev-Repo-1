@@ -30,7 +30,7 @@ Dizi & Film tasarımı.
 ## Ekran Görüntüleri
 
 - index.html Sayfası
-![Uygulama Ekran Görüntüsü](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/ljtlu1w.png)
 
 - filmler.html Sayfası
 ![Uygulama Ekran Görüntüsü](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
