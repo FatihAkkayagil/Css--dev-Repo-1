@@ -27,7 +27,7 @@ Dizi & Film tasarımı.
 
 
 ## 
-## Ekran Görüntüleri
+## Screenshots
 
 ![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/ljtlu1w.png)
 
